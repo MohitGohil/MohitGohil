@@ -16,7 +16,7 @@
 
 #### 🏗️ Frameworks and Tools
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### 🗄️ Databases
 
@@ -37,8 +37,11 @@
 - **🔗 URL Shortener** – Custom URL shortening service with analytics and link expiration.  
   _Node.js, MongoDB, Docker_
 
-- **💬 Private LiveChat** – Real-time anonymous chat with bidirectional TCP communication.  
+- **💬 Private LiveChat** – Real-time anonymous chat with bidirectional TCP communication and custom private rooms for secure communication.\
   _Node.js, Socket.IO, HTML, CSS, JavaScript_
+
+- **📇 vCard Generator** – Application to generate vCard QR codes for seamless sharing of personal details. Users can scan the QR code to directly import contact information.\
+  _Node.js, Express, QR Code Generator API, HTML, CSS_
 
 - **🍽️ Food Shop Automation** – Online food ordering system with live tracking and automated invoicing.  
   _PHP, MySQL, Bootstrap_
@@ -53,8 +56,6 @@
 
 ### 🤝 Connect with Me
 
-[![Linkedin: Mohit Gohil](https://img.shields.io/badge/mohit%20gohil-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-gohil/)
-[![GitHub MohitGohil](https://img.shields.io/badge/MohitGohil-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohitGohil)
-[![Instagram](https://img.shields.io/badge/i_am_mohitgohil-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/i_am_mohitgohil/)
+[![Linkedin: Mohit Gohil](https://img.shields.io/badge/mohit%20gohil-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-gohil/) [![GitHub MohitGohil](https://img.shields.io/badge/MohitGohil-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohitGohil) [![Instagram](https://img.shields.io/badge/i_am_mohitgohil-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/i_am_mohitgohil/)
 
 - ✉️ **Email:** To get my email paste: `bW9oaXRnb2hpbDU3MUBnbWFpbC5jb20=` [here](https://www.base64decode.org/) or [here](https://emn178.github.io/online-tools/base64_decode.html). I've Base 64 encoded my email address to keep it safe from email scrapping bots.
